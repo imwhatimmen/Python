@@ -1,0 +1,11 @@
+#include<iostream>
+
+int main(){
+    int salir;
+    
+    std::cout<<"Hola Maria";
+    std::cout<<"Toca una tecla para terminar";
+    std::cin>>salir;
+    return 0;
+    
+} 
